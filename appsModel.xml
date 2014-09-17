@@ -1,0 +1,17 @@
+<model>
+	<item appName="Secure AntiVirus Pro" appIcon="images/secureAntiVirusPro.png" bbwLink="http://appworld.blackberry.com/webstore/content/34092890"/>
+	<item appName="Coffee Companion" appIcon="images/coffeeCompanion.png" bbwLink="http://appworld.blackberry.com/webstore/content/59938137"/>
+	<item appName="Volt" appIcon="images/volt.png" bbwLink="http://appworld.blackberry.com/webstore/content/59935143"/>
+	<item appName="SmartWatch Companion" appIcon="images/SWC.png" bbwLink="http://appworld.blackberry.com/webstore/content/50478888"/>
+	<item appName="Companion (with NFC)" appIcon="images/companion.png" bbwLink="http://appworld.blackberry.com/webstore/content/56770889"/>
+	<item appName="BlockID" appIcon="images/blockID.png" bbwLink="http://appworld.blackberry.com/webstore/content/56861890"/>
+	<item appName="MobID" appIcon="images/mobId.png" bbwLink="http://appworld.blackberry.com/webstore/content/56960889"/>
+	<item appName="Cast For BlackBerry" appIcon="images/cast.png" bbwLink="http://appworld.blackberry.com/webstore/content/57227887"/>
+	<item appName="Hue Companion" appIcon="images/hueCompanion.png" bbwLink="http://appworld.blackberry.com/webstore/content/58758204"/>
+	<item appName="PlexIt" appIcon="images/plexIt.png" bbwLink="http://appworld.blackberry.com/webstore/content/59934302"/>
+	<item appName="Clear Wall" appIcon="images/clearWall.png" bbwLink="http://appworld.blackberry.com/webstore/content/54274887"/>
+	<item appName="Auto Sms" appIcon="images/autoSms.png" bbwLink="http://appworld.blackberry.com/webstore/content/59933954"/>
+	<item appName="Weather2Watch" appIcon="images/Weather2Watch.png" bbwLink="http://appworld.blackberry.com/webstore/content/53238887"/>
+	<item appName="Alarm2Watch" appIcon="images/Alarm2Watch.png" bbwLink="http://appworld.blackberry.com/webstore/content/50699889"/>
+	<item appName="Connect2UpFront" appIcon="images/Connect2UpFront.png" bbwLink="http://appworld.blackberry.com/webstore/vendor/70290"/>
+</model>
