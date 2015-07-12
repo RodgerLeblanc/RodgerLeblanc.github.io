@@ -3,30 +3,36 @@
         <device>Q10, Q5 and Classic</device>
         <name>United App</name>
         <url>http://s8.postimg.org/6d2u5hnut/splashscreen_720_720.png</url>
+        <height>720</height>
     </app>
     <app>
         <device>Q10, Q5 and Classic</device>
         <name>ProtectMe</name>
         <url>http://s12.postimg.org/n8xvci1n1/splashscreen_720_720.png</url>
+        <height>720</height>
     </app>
     <app>
         <device>Passport</device>
         <name>United App</name>
         <url>http://s24.postimg.org/ms7t3jg0l/splashscreen_1440_1440.png</url>
+        <height>1440</height>
     </app>
     <app>
         <device>Passport</device>
         <name>ProtectMe</name>
         <url>http://s22.postimg.org/9x9q0qa9d/splashscreen_1440_1440.png</url>
+        <height>1440</height>
     </app>
     <app>
         <device>Z10</device>
         <name>United App</name>
         <url>http://s24.postimg.org/8lwnm1uj9/splashscreen_720_1280.png</url>
+        <height>1280</height>
     </app>
     <app>
         <device>Z10</device>
         <name>ProtectMe</name>
         <url>http://s12.postimg.org/mefx47j65/splashscreen_720_1280.png</url>
+        <height>1280</height>
     </app>
 </root>
