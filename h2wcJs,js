@@ -1,0 +1,17 @@
+<script type=text/javascript>
+	var PebColor = {
+  		cols: ("00000500A00F05005505A05F0A00A50AA0AF0F00F50FA0FF50050550A50F55055555A55F5A0"+
+		 "5A55AA5AF5F05F55FA5FFA00A05A0AA0FA50A55A5AA5FAA0AA5AAAAAFAF0AF5AFAAFFF00F05F0AF0F"+
+		  "F50F55F5AF5FFA0FA5FAAFAFFF0FF5FFAFFF").match(/.../g),
+  		ord: ("00214263371632485358523657564120406061624424452825040812294613093014260510153"+
+		  "147110627072201020323431918393538173451555950335449").match(/../g),
+  		click: function(node, i) {
+    			node.parentNode.querySelector("input").value = i;
+  		},
+  		html: function() {
+    			for(var o=this.ord,c=this.cols, i=63, htm=[]; i>=0; i--)
+      				htm[i]="<span class=pebcol onclick='PebColor.click(this,"+o[i]*1+");' style='background-color:#"+c[o[i]*1]+"'>&nbsp;</span>";
+    			return htm.join("");
+  		}
+	};
+</script>
