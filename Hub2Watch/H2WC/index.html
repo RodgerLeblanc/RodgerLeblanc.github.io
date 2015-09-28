@@ -48,6 +48,15 @@
       <div class='item-container-footer'>
         Choose the app's bottom background color.
       </div>
+      <div class='item-container-content'>
+        <label class='item'>
+          Time Color
+          <input id='time_color_picker' type='text' class='item-color item-color-sunny' value='#000000'>
+        </label>
+      </div>
+      <div class='item-container-footer'>
+        Choose the time and date color. The icons color will always remain black, with some white filling once in a while, mostly for weather icons (clouds).
+      </div>
     </div>
 
     <div class='item-container'>
@@ -60,15 +69,18 @@
   function getConfigData() {
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
+    var timeColorPicker = document.getElementById('time_color_picker');
 
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
+      'time_color': timeColorPicker.value,
     };
 
     // Save for next launch
     localStorage['top_color'] = options['top_color'];
     localStorage['bottom_color'] = options['bottom_color'];
+    localStorage['time_color'] = options['time_color'];
 
     console.log('Got options: ' + JSON.stringify(options));
     return options;
@@ -98,11 +110,13 @@
   (function() {
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
+    var timeColorPicker = document.getElementById('time_color_picker');
 
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
+      timeColorPicker.value = localStorage['time_color'];
     }
   })();
   </script>
