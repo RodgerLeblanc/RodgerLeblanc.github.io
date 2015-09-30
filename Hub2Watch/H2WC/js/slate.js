@@ -108,7 +108,7 @@ var Zepto=function(){function L(t){return null==t?String(t):j[S.call(t)]||"objec
       }, options || {});
 
       var layout = [
-        [false    , false    , '#55FF00', '#AAFF55', false    , '#FFFF55', '#FFFFAA', false    , false    ],
+        [false    , false    , '#FF6A00', '#AAFF55', false    , '#FFFF55', '#FFFFAA', false    , false    ],
         [false    , '#AAFFAA', '#55FF55', '#00FF00', '#AAFF00', '#FFFF00', '#FFAA55', '#FF6A00', false    ],
         ['#55FFAA', '#00FF55', '#00AA00', '#55AA00', '#AAAA55', '#AAAA00', '#FFAA00', '#FF5500', '#FF5555'],
         ['#AAFFFF', '#00FFAA', '#00AA55', '#55AA55', '#005500', '#555500', '#AA5500', '#FF0000', '#FF0055'],
