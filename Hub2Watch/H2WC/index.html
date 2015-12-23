@@ -64,19 +64,19 @@
       <div class="item-container-content">
         <label class="item">
           Automatically adjust
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="0" checked>
+          <input type="radio" class="item-radio" name="radio-1" value="0" checked>
         </label>
         <label class="item">
           1
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="1">
+          <input type="radio" class="item-radio" name="radio-1" value="1">
         </label>
         <label class="item">
           4
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="4">
+          <input type="radio" class="item-radio" name="radio-1" value="4">
         </label>
         <label class="item">
           6
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="6">
+          <input type="radio" class="item-radio" name="radio-1" value="6">
         </label>
       </div>
       <div class='item-container-footer'>
@@ -95,20 +95,14 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementsByName('radio-1');
+//    var numberOfSlots = document.getElementsByName('radio-1');
+    var numberOfSlots = document.querySelector('input[name="radio-1"]:checked').value;
 
-    var i = 0;
-    for (var length = numberOfSlots.length; i < length; i++) {
-      if (numberOfSlots[i].checked) {
-        break;
-      }
-    }
-    
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': i,
+      'number_of_slots': numberOfSlots.value,
     };
 
     // Save for next launch
@@ -146,7 +140,8 @@
     var topColorPicke.r = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementsByName('radio-1');
+//    var numberOfSlots = document.getElementsByName('radio-1');
+    var numberOfSlots = document.querySelector('input[name="radio-1"]:checked').value;
 
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
