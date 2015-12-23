@@ -59,6 +59,7 @@
       </div>
     </div>
     
+    /*
     <div class="item-container">
       <div class="item-container-header">Number Of Slots</div>
       <div class="item-container-content">
@@ -72,6 +73,7 @@
         How many slots to use. If you set this field to 0 or leave it empty, it will auto-switch between 1, 4 and 6 slots depending on how many unread accounts there is to show. This option will take effect next time H2WC updates its unread count.
       </div>
     </div>
+    */
 
     <div class='item-container'>
       <div class='button-container'>
@@ -84,22 +86,22 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
+//    var numberOfSlots = document.getElementById('number_of_slots');
     
-    if ((numberOfSlots.value != "1") || (numberOfSlots.value != "4") || (numberOfSlots.value != "6"))
-      numberOfSlots.value = "0";
+//    if ((numberOfSlots.value != "1") || (numberOfSlots.value != "4") || (numberOfSlots.value != "6"))
+//      numberOfSlots.value = "0";
       
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': numberOfSlots.value
+//      'number_of_slots': numberOfSlots.value
     };
     // Save for next launch"
     localStorage['top_color'] = options['top_color'];
     localStorage['bottom_color'] = options['bottom_color'];
     localStorage['time_color'] = options['time_color'];
-    localStorage['number_of_slots'] = options['number_of_slots'];
+//    localStorage['number_of_slots'] = options['number_of_slots'];
     console.log('Got options: ' + JSON.stringify(options));
     return options;
   }
@@ -126,13 +128,14 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
+//    var numberOfSlots = document.getElementById('number_of_slots');
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
     }
+    /*
     if(localStorage['number_of_slots']) {
       numberOfSlots.value = localStorage['number_of_slots'];
       if ((numberOfSlots.value != "1") || (numberOfSlots.value != "4") || (numberOfSlots.value != "6"))
@@ -142,6 +145,7 @@
       numberOfSlots.value = "0";
       localStorage['number_of_slots'] = "0";
     }
+    */
   })();
   </script>
 </html>
