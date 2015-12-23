@@ -58,6 +58,28 @@
         Choose the time and date color. The icons color will always remain black, with some white filling once in a while, mostly for weather icons (clouds).
       </div>
     </div>
+    
+    <div class="item-container">
+      <div class="item-container-header">Number Of Slots</div>
+      <div class="item-container-content">
+        <label class="item">
+          Automatically adjust
+          <input type="number_of_slots" class="item-radio" name="radio-1" value="0" checked>
+        </label>
+        <label class="item">
+          1
+          <input type="number_of_slots" class="item-radio" name="radio-1" value="1">
+        </label>
+        <label class="item">
+          4
+          <input type="number_of_slots" class="item-radio" name="radio-1" value="4">
+        </label>
+        <label class="item">
+          6
+          <input type="number_of_slots" class="item-radio" name="radio-1" value="6">
+        </label>
+      </div>
+    </div>
 
     <div class='item-container'>
       <div class='button-container'>
@@ -70,17 +92,20 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
+    var numberOfSlots = document.getElementById('number_of_slots');
 
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
+      'number_of_slots': numberOfSlots.value,
     };
 
     // Save for next launch
     localStorage['top_color'] = options['top_color'];
     localStorage['bottom_color'] = options['bottom_color'];
     localStorage['time_color'] = options['time_color'];
+    localStorage['number_of_slots'] = options['number_of_slots'];
 
     console.log('Got options: ' + JSON.stringify(options));
     return options;
@@ -111,12 +136,14 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
+    var numberOfSlots = document.getElementById('number_of_slots');
 
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
+      numberOfSlots.value = localStorage['number_of_slots'];
     }
   })();
   </script>
