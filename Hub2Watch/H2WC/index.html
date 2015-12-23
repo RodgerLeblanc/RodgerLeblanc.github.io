@@ -85,13 +85,17 @@
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementById('number_of_slots');
+    
+    if ((numberOfSlots.value != "1") || (numberOfSlots.value != "4") || (numberOfSlots.value != "6"))
+      numberOfSlots.value = "0";
+      
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
       'number_of_slots': numberOfSlots.value
     };
-    // Save for next launch
+    // Save for next launch"
     localStorage['top_color'] = options['top_color'];
     localStorage['bottom_color'] = options['bottom_color'];
     localStorage['time_color'] = options['time_color'];
@@ -128,7 +132,15 @@
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
+    }
+    if(localStorage['number_of_slots']) {
       numberOfSlots.value = localStorage['number_of_slots'];
+      if ((numberOfSlots.value != "1") || (numberOfSlots.value != "4") || (numberOfSlots.value != "6"))
+        numberOfSlots.value = "0";
+    }
+    else {
+      numberOfSlots.value = "0";
+      localStorage['number_of_slots'] = "0";
     }
   })();
   </script>
