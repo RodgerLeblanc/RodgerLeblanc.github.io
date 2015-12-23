@@ -63,24 +63,13 @@
       <div class="item-container-header">Number Of Slots</div>
       <div class="item-container-content">
         <label class="item">
-          Automatically adjust
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="0" checked>
-        </label>
-        <label class="item">
-          1
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="1">
-        </label>
-        <label class="item">
-          4
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="4">
-        </label>
-        <label class="item">
-          6
-          <input id="number_of_slots" type="radio" class="item-radio" name="radio-1" value="6">
+          <div class="item-input-wrapper">
+            <input id="number_of_slots" type="text" class="item-input" name="input-1" placeholder="Leave empty, 1, 4 or 6">
+          </div>
         </label>
       </div>
       <div class='item-container-footer'>
-        Choose how many slots should the watchface show. Default is to switch between 1, 4 and 6 slots depending on the number of unread accounts to show.
+        How many slots to use. If you leave this field empty, it will auto-switch between 1, 4 and 6 slots depending on how many unread accounts there is to show.
       </div>
     </div>
 
@@ -100,7 +89,7 @@
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': numberOfSlots.checked,
+      'number_of_slots': numberOfSlots.value
     };
     // Save for next launch
     localStorage['top_color'] = options['top_color'];
@@ -139,7 +128,7 @@
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
-      numberOfSlots.checked = JSON.parse(localStorage['number_of_slots']);
+      numberOfSlots.value = localStorage['number_of_slots'];
     }
   })();
   </script>
