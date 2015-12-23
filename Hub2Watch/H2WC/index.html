@@ -95,13 +95,21 @@
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
+    var numberOfSlots = document.getElementsByName('radio-1');
 
+    var selected = 0;
+    for (var i = 0, length = numberOfSlots.length; i < length; i++) {
+      if (numberOfSlots[i].checked) {
+        selected = numberOfSlots[i].value;
+        break;
+      }
+    }
+    
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': numberOfSlots.value,
+      'number_of_slots': selected.value,
     };
 
     // Save for next launch
@@ -136,17 +144,20 @@
   });
 
   (function() {
-    var topColorPicker = document.getElementById('top_color_picker');
+    var topColorPicke.r = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
+    var numberOfSlots = document.getElementsByName('radio-1');
 
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
-      numberOfSlots.value = localStorage['number_of_slots'];
+      var selected = localStorage['number_of_slots'];
+      for (var i = 0, length = numberOfSlots.length; i < length; i++) {
+        numberOfSlots[i].checked = (numberOfSlots[i].value == selected.value);
+      }
     }
   })();
   </script>
