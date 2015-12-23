@@ -101,7 +101,7 @@
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': numberOfSlots.value,
+      'number_of_slots': numberOfSlots.checked,
     };
 
     // Save for next launch
@@ -146,7 +146,7 @@
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
-      numberOfSlots.value = localStorage['number_of_slots'];
+      numberOfSlots.checked = JSON.parse(localStorage['number_of_slots']);
     }
   })();
   </script>
