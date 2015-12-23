@@ -97,10 +97,10 @@
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementsByName('radio-1');
 
-    var selected = "0";
-    for (var i = 0, length = numberOfSlots.length; i < length; i++) {
+    var i = 0;
+    for (var length = numberOfSlots.length; i < length; i++) {
       if (numberOfSlots[i].checked) {
-        selected = numberOfSlots[i].value;
+        break;
       }
     }
     
@@ -108,7 +108,7 @@
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-      'number_of_slots': selected.value,
+      'number_of_slots': i,
     };
 
     // Save for next launch
@@ -153,10 +153,10 @@
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
-      var selected = localStorage['number_of_slots'];
-      for (var i = 0, length = numberOfSlots.length; i < length; i++) {
-        numberOfSlots[i].checked = (numberOfSlots[i].value == selected.value);
-      }
+//      var selected = localStorage['number_of_slots'];
+//      for (var i = 0, length = numberOfSlots.length; i < length; i++) {
+//        numberOfSlots[i].checked = (numberOfSlots[i].value == selected.value);
+//      }
     }
   })();
   </script>
