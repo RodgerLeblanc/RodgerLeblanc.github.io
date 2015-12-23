@@ -97,11 +97,10 @@
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementsByName('radio-1');
 
-    var selected = 0;
+    var selected = "0";
     for (var i = 0, length = numberOfSlots.length; i < length; i++) {
       if (numberOfSlots[i].checked) {
         selected = numberOfSlots[i].value;
-        break;
       }
     }
     
