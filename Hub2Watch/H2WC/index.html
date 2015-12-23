@@ -23,7 +23,7 @@
     <div class='item-container'>
       <div class='item-container-content'>
         <div class='item'>
-          4Use this configuration page to choose the settings you would like applied to this app.
+          1Use this configuration page to choose the settings you would like applied to this app.
         </div>
       </div>
     </div>
@@ -91,18 +91,19 @@
     </div>
   </body>
   <script>
+  
   function getConfigData() {
     var topColorPicker = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-//    var numberOfSlots = document.getElementsByName('radio-1');
+    var numberOfSlots = document.getElementsByName('radio-1');
 //    var numberOfSlots = document.querySelector('input[name="radio-1"]:checked').value;
 
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
-//      'number_of_slots': numberOfSlots,
+      'number_of_slots': numberOfSlots[0].value
     };
 
     // Save for next launch
@@ -140,18 +141,12 @@
     var topColorPicke.r = document.getElementById('top_color_picker');
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
-//    var numberOfSlots = document.getElementsByName('radio-1');
-//    var numberOfSlots = document.querySelector('input[name="radio-1"]:checked').value;
 
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
       bottomColorPicker.value = localStorage['bottom_color'];
       timeColorPicker.value = localStorage['time_color'];
-//      var selected = localStorage['number_of_slots'];
-//      for (var i = 0, length = numberOfSlots.length; i < length; i++) {
-//        numberOfSlots[i].checked = (numberOfSlots[i].value == selected.value);
-//      }
     }
   })();
   </script>
