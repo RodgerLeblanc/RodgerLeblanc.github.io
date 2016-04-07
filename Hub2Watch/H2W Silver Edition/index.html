@@ -18,7 +18,7 @@
   </head>
 
   <body>
-    <h1 class='title'>Hub2Watch Color Configuration</h1>
+    <h1 class='title'>H2W Silver Edition Configuration</h1>
 
     <div class='item-container'>
       <div class='item-container-content'>
@@ -29,53 +29,18 @@
     </div>
 
     <div class='item-container'>
-      <div class='item-container-header'>Colors (Only for Time Series)</div>
+      <div class='item-container-header'>Color (Only for Time Series)</div>
       <div class='item-container-content'>
         <label class='item'>
-          Time & Date Background Color
-          <input id='top_color_picker' type='text' class='item-color item-color-normal' value='#000000'>
+          Background Color
+          <input id='top_color_picker' type='text' class='item-color item-color-normal' value='#FFFFFF'>
         </label>
       </div>
       <div class='item-container-footer'>
-        Choose the time and date background color.
-      </div>
-      <div class='item-container-content'>
-        <label class='item'>
-          Hub Color
-          <input id='bottom_color_picker' type='text' class='item-color item-color-normal' value='#FF0000'>
-        </label>
-      </div>
-      <div class='item-container-footer'>
-        Choose the hub color.
-      </div>
-      <div class='item-container-content'>
-        <label class='item'>
-          Time & Date Color
-          <input id='time_color_picker' type='text' class='item-color item-color-normal' value='#000000'>
-        </label>
-      </div>
-      <div class='item-container-footer'>
-        Choose the time and date color. The icons color will always remain black.
+        Choose the background color.
       </div>
     </div>
     
-    <div class='item-container'>
-      <div class="item-container-header">Number Of Slots</div>
-      <div class='item-container-content'>
-        <label class="item">Number Of Slots
-          <select id="number_of_slots" class="item-select">
-            <option class="item-select-option" value="0">Auto adjust (default)</option>
-            <option class="item-select-option" value="1">1 slot only</option>
-            <option class="item-select-option" value="4">4 slots only</option>
-            <option class="item-select-option" value="6">6 slots only</option>
-            </select>
-        </label>
-      </div>
-      <div class='item-container-footer'>
-        How many slots to use. If you set this field to auto adjust, it will switch between 1, 4 and 6 slots depending on how many unread accounts there is to show.
-      </div>
-    </div>
-
     <div class='item-container'>
       <div class='button-container'>
         <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
@@ -85,22 +50,13 @@
   <script>
   function getConfigData() {
     var topColorPicker = document.getElementById('top_color_picker');
-    var bottomColorPicker = document.getElementById('bottom_color_picker');
-    var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
-    
+
     var options = {
       'top_color': topColorPicker.value,
-      'bottom_color': bottomColorPicker.value,
-      'time_color': timeColorPicker.value,
-      'number_of_slots': numberOfSlots.value,
     };
     
     // Save for next launch"
     localStorage['top_color'] = options['top_color'];
-    localStorage['bottom_color'] = options['bottom_color'];
-    localStorage['time_color'] = options['time_color'];
-    localStorage['number_of_slots'] = options['number_of_slots'];
     console.log('Got options: ' + JSON.stringify(options));
     return options;
   }
@@ -125,22 +81,10 @@
   });
   (function() {
     var topColorPicker = document.getElementById('top_color_picker');
-    var bottomColorPicker = document.getElementById('bottom_color_picker');
-    var timeColorPicker = document.getElementById('time_color_picker');
-    var numberOfSlots = document.getElementById('number_of_slots');
-    
+
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
       topColorPicker.value = localStorage['top_color'];
-      bottomColorPicker.value = localStorage['bottom_color'];
-      timeColorPicker.value = localStorage['time_color'];
-    }
-
-    if(localStorage['number_of_slots']) {
-      numberOfSlots.value = localStorage['number_of_slots'];
-    }
-    else {
-      numberOfSlots.value = "0";
     }
   })();
   </script>
