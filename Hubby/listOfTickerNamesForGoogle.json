@@ -2,5 +2,8 @@
   ".F" : "FRA:*",
   ".NS" : "NSE:*",
   ".B" : "TSE:*",
-  ".TO" : "TSE:*"
+  ".TO" : "TSE:*",
+  "^DJI" : "INDEXDJX:.DJI",
+  "^IXIC" : "INDEXNASDAQ:.IXIC",
+  "^GSPC" : "INDEXSP:.INX"
 }
