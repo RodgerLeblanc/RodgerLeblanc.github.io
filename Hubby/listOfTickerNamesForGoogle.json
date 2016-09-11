@@ -5,5 +5,6 @@
   ".TO" : "TSE:*",
   "^DJI" : "INDEXDJX:.DJI",
   "^IXIC" : "INDEXNASDAQ:.IXIC",
-  "^GSPC" : "INDEXSP:.INX"
+  "^GSPC" : "INDEXSP:.INX",
+  "^FTSE" : "INDEXFTSE:.UKX"
 }
