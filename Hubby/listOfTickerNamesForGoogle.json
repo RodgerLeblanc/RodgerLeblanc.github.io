@@ -4,6 +4,7 @@
   ".NS" : "NSE:*",
   ".B" : "TSE:*",
   ".TO" : "TSE:*",
+  ".SS" : "*.SS",
   "^DJI" : "INDEXDJX:.DJI",
   "^IXIC" : "INDEXNASDAQ:.IXIC",
   "^GSPC" : "INDEXSP:.INX",
