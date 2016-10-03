@@ -76,6 +76,21 @@
     </div>
 
     <div class='item-container'>
+      <div class="item-container-header">Weather Temperature Scale</div>
+      <div class='item-container-content'>
+        <label class="item">Weather Temperature Scale
+          <select id="temperature_scale" class="item-select">
+            <option class="item-select-option" value="0">Celsius (default)</option>
+            <option class="item-select-option" value="1">Fahrenheit</option>
+            </select>
+        </label>
+      </div>
+      <div class='item-container-footer'>
+        Are you from United States or from the rest of the world?
+      </div>
+    </div>
+
+    <div class='item-container'>
       <div class='button-container'>
         <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
       </div>
@@ -87,12 +102,14 @@
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementById('number_of_slots');
+    var temperatureScale = document.getElementById('temperature_scale');
     
     var options = {
       'top_color': topColorPicker.value,
       'bottom_color': bottomColorPicker.value,
       'time_color': timeColorPicker.value,
       'number_of_slots': numberOfSlots.value,
+      'temperature_scale': temperatureScale.value
     };
     
     // Save for next launch"
@@ -100,6 +117,7 @@
     localStorage['bottom_color'] = options['bottom_color'];
     localStorage['time_color'] = options['time_color'];
     localStorage['number_of_slots'] = options['number_of_slots'];
+    localStorage['temperature_scale'] = options['temperature_scale'];
     console.log('Got options: ' + JSON.stringify(options));
     return options;
   }
@@ -127,6 +145,7 @@
     var bottomColorPicker = document.getElementById('bottom_color_picker');
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementById('number_of_slots');
+    var temperatureScale = document.getElementById('temperature_scale');
     
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
@@ -141,6 +160,13 @@
     else {
       numberOfSlots.value = "0";
     }
+    
+    if(localStorage['temperature_scale']) {
+      temperatureScale.value = localStorage['temperature_scale'];
+    }
+    else {
+      temperatureScale.value = "0";
+    }    
   })();
   </script>
 </html>
