@@ -76,6 +76,32 @@
     </div>
 
     <div class='item-container'>
+      <div class="item-container-header">Vibration</div>
+      <div class='item-container-content'>
+        <label class="item">Vibration
+          <select id="number_of_slots" class="item-select">
+            <option class="item-select-option" value="0"></option>
+            <option class="item-select-option" value="1">Fahrenheit</option>
+            </select>
+        </label>
+      </div>
+      <div class='item-container-footer'>
+        How many slots to use. If you set this field to auto adjust, it will switch between 4 and 8 slots depending on how many unread accounts there is to show.
+      </div>
+    </div>
+
+    <div class="item-container">
+      <div class="item-container-header">Weather City</div>
+        <div class="item-container-content">
+          <label class="item">
+          <div class="item-input-wrapper item-input-wrapper-button">
+            <input id="city" type="text" class="item-input" name="input-2" placeholder="Enter a city">
+          </div>
+          </label>
+      </div>
+    </div>
+    
+    <div class='item-container'>
       <div class="item-container-header">Weather Temperature Scale</div>
       <div class='item-container-content'>
         <label class="item">Weather Temperature Scale
@@ -96,6 +122,7 @@
       </div>
     </div>
   </body>
+  
   <script>
   function getConfigData() {
     var topColorPicker = document.getElementById('top_color_picker');
@@ -103,6 +130,7 @@
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementById('number_of_slots');
     var temperatureScale = document.getElementById('temperature_scale');
+    var city = document.getElementById('city');
     
     var options = {
       'top_color': topColorPicker.value,
@@ -110,6 +138,7 @@
       'time_color': timeColorPicker.value,
       'number_of_slots': numberOfSlots.value,
       'temperature_scale': temperatureScale.value
+      'city': city.value
     };
     
     // Save for next launch"
@@ -118,6 +147,7 @@
     localStorage['time_color'] = options['time_color'];
     localStorage['number_of_slots'] = options['number_of_slots'];
     localStorage['temperature_scale'] = options['temperature_scale'];
+    localStorage['city'] = options['city'];
     console.log('Got options: ' + JSON.stringify(options));
     return options;
   }
@@ -146,6 +176,7 @@
     var timeColorPicker = document.getElementById('time_color_picker');
     var numberOfSlots = document.getElementById('number_of_slots');
     var temperatureScale = document.getElementById('temperature_scale');
+    var city = document.getElementById('city');
     
     // Load any previously saved configuration, if available
     if(localStorage['top_color']) {
@@ -166,6 +197,13 @@
     }
     else {
       temperatureScale.value = "0";
+    }    
+    
+    if(localStorage['city']) {
+      city.value = localStorage['city'];
+    }
+    else {
+      city.value = "New York, NY";
     }    
   })();
   </script>
