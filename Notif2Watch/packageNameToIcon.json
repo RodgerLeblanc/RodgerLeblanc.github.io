@@ -2,5 +2,6 @@
   "com.cellninja.notif2watch" : 48,
   "com.android.mms" : 27,
   "org.telegram.messenger" : 54,
-  "com.google.android.apps.inbox" : 51
+  "com.google.android.apps.inbox" : 51,
+  "com.google.android.keep" : 25
 }
