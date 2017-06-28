@@ -3,6 +3,7 @@
   "com.android.mms" : 27,
   "org.telegram.messenger" : 54,
   "com.google.android.apps.messaging" : 27,
+  "com.samsung.android.messaging" : 27,
   "com.sec.android.app.music" : 47,
   "com.microsoft.office.outlook" : 22
 }
