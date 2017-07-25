@@ -8,5 +8,5 @@
   "^IXIC" : "INDEXNASDAQ:.IXIC",
   "^GSPC" : "INDEXSP:.INX",
   "^FTSE" : "INDEXFTSE:.UKX",
-  "=X" : "CURRENCY:*"
+  "=X" : "CURRENCY:USD*"
 }
