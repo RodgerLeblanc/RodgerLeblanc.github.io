@@ -1,4 +1,5 @@
 {
+  "USD=X" : "CURRENCY:*USD",
   ".F" : "FRA:*",
   ".MC" : "MCE:*",
   ".NS" : "NSE:*",
@@ -8,6 +9,5 @@
   "^IXIC" : "INDEXNASDAQ:.IXIC",
   "^GSPC" : "INDEXSP:.INX",
   "^FTSE" : "INDEXFTSE:.UKX",
-  "USD=X" : "CURRENCY:*USD",
   "=X" : "CURRENCY:USD*"
 }
