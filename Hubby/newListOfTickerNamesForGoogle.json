@@ -3,31 +3,31 @@
     "[A-Za-z]*USD=X" : "CURRENCY:*USD"
   },
   {
-    "[A-Za-z]*\.F" : "FRA:*"
+    "[A-Za-z]*\\.F" : "FRA:*"
   },
   {
-    "[A-Za-z]*\.MC" : "MCE:*"
+    "[A-Za-z]*\\.MC" : "MCE:*"
   },
   {
-    "[A-Za-z]*\.NS" : "NSE:*"
+    "[A-Za-z]*\\.NS" : "NSE:*"
   },
   {
-    "[A-Za-z]*\.B" : "TSE:*"
+    "[A-Za-z]*\\.B" : "TSE:*"
   },
   {
-    "[A-Za-z]*\.TO" : "TSE:*"
+    "[A-Za-z]*\\.TO" : "TSE:*"
   },
   {
-    "\^DJI" : "INDEXDJX:.DJI"
+    "\\^DJI" : "INDEXDJX:.DJI"
   },
   {
-    "\^IXIC" : "INDEXNASDAQ:.IXIC"
+    "\\^IXIC" : "INDEXNASDAQ:.IXIC"
   },
   {
-    "\^GSPC" : "INDEXSP:.INX"
+    "\\^GSPC" : "INDEXSP:.INX"
   },
   {
-    "\^FTSE" : "INDEXFTSE:.UKX"
+    "\\^FTSE" : "INDEXFTSE:.UKX"
   },
   {
     "[A-Za-z]*=X" : "CURRENCY:USD*"
