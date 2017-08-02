@@ -1,8 +1,8 @@
 [
   {
-    "[A-Za-z]*USD=X" : {
-      "toRemove" : "USD=X",
-      "replaceStar" : "CURRENCY:*USD"
+    "[A-Za-z]{6}=X" : {
+      "toRemove" : "=X",
+      "replaceStar" : "CURRENCY:*"
     }
   },
   {
