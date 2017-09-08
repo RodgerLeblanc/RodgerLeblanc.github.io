@@ -2,67 +2,37 @@
   {
     "[A-Za-z]{6}=X" : {
       "toRemove" : "=X",
-      "replaceStar" : "CURRENCY:*"
+      "replaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*=X" : {
       "toRemove" : "=X",
-      "replaceStar" : "CURRENCY:USD*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.F" : {
-      "toRemove" : "\\.F",
-      "replaceStar" : "FRA:*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.MC" : {
-      "toRemove" : "\\.MC",
-      "replaceStar" : "MCE:*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.NS" : {
-      "toRemove" : "\\.NS",
-      "replaceStar" : "NSE:*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.B" : {
-      "toRemove" : "\\.B",
-      "replaceStar" : "TSE:*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.TO" : {
-      "toRemove" : "\\.TO",
-      "replaceStar" : "TSE:*"
+      "replaceStar" : "USD*"
     }
   },
   {
     "\\^DJI" : {
       "toRemove" : "\\^DJI",
-      "replaceStar" : "INDEXDJX:.DJI"
+      "replaceStar" : ".DJI"
     }
   },
   {
     "\\^IXIC" : {
       "toRemove" : "\\^IXIC",
-      "replaceStar" : "INDEXNASDAQ:.IXIC"
+      "replaceStar" : ".IXIC"
     }
   },
   {
     "\\^GSPC" : {
       "toRemove" : "\\^GSPC",
-      "replaceStar" : "INDEXSP:.INX"
+      "replaceStar" : ".INX"
     }
   },
   {
     "\\^FTSE" : {
       "toRemove" : "\\^FTSE",
-      "replaceStar" : "INDEXFTSE:.UKX"
+      "replaceStar" : ".UKX"
     }
   }
 ]
