@@ -65,5 +65,11 @@
       "toRemove" : "\\^FTSE",
       "replaceStar" : "INDEXFTSE:.UKX"
     }
+  },
+  {
+    "FIT" : {
+      "toRemove" : "",
+      "replaceStar" : "NASDAQ:*"
+    }
   }
 ]
