@@ -25,6 +25,14 @@
     }
   },
   {
+    "[A-Za-z]*\\.PA" : {
+      "toRemove" : "\\.PA",
+      "replaceStar" : "EPA:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
+    }
+  },
+  {
     "[A-Za-z]*\\.MC" : {
       "toRemove" : "\\.MC",
       "replaceStar" : "MCE:*",
