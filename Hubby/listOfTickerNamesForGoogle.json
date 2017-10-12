@@ -3,73 +3,97 @@
   {
     "[A-Za-z]{6}=X" : {
       "toRemove" : "=X",
-      "replaceStar" : "CURRENCY:*"
+      "replaceStar" : "CURRENCY:*",
+      "hubToRemove" : "=X",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*=X" : {
       "toRemove" : "=X",
-      "replaceStar" : "CURRENCY:USD*"
+      "replaceStar" : "CURRENCY:USD*",
+      "hubToRemove" : "=X",
+      "hubReplaceStar" : "USD*"
     }
   },
   {
     "[A-Za-z]*\\.F" : {
       "toRemove" : "\\.F",
-      "replaceStar" : "FRA:*"
+      "replaceStar" : "FRA:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*\\.MC" : {
       "toRemove" : "\\.MC",
-      "replaceStar" : "MCE:*"
+      "replaceStar" : "MCE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*\\.NS" : {
       "toRemove" : "\\.NS",
-      "replaceStar" : "NSE:*"
+      "replaceStar" : "NSE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*\\.B" : {
       "toRemove" : "\\.B",
-      "replaceStar" : "TSE:*"
+      "replaceStar" : "TSE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "[A-Za-z]*\\.TO" : {
       "toRemove" : "\\.TO",
-      "replaceStar" : "TSE:*"
+      "replaceStar" : "TSE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "\\^DJI" : {
       "toRemove" : "\\^DJI",
-      "replaceStar" : "INDEXDJX:.DJI"
+      "replaceStar" : "INDEXDJX:.DJI",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "\\^IXIC" : {
       "toRemove" : "\\^IXIC",
-      "replaceStar" : "INDEXNASDAQ:.IXIC"
+      "replaceStar" : "INDEXNASDAQ:.IXIC",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "\\^GSPC" : {
       "toRemove" : "\\^GSPC",
-      "replaceStar" : "INDEXSP:.INX"
+      "replaceStar" : "INDEXSP:.INX",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "\\^FTSE" : {
       "toRemove" : "\\^FTSE",
-      "replaceStar" : "INDEXFTSE:.UKX"
+      "replaceStar" : "INDEXFTSE:.UKX",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   },
   {
     "FIT" : {
       "toRemove" : "",
-      "replaceStar" : "NASDAQ:*"
+      "replaceStar" : "NASDAQ:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
     }
   }
 ]
