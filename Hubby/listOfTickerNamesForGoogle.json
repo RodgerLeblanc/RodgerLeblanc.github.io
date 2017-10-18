@@ -111,5 +111,13 @@
       "hubToRemove" : "RY",
       "hubReplaceStar" : "*"
     }
+  },
+  {
+    "BB" : {
+      "toRemove" : "",
+      "replaceStar" : "NYSE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
+    }
   }
 ]
