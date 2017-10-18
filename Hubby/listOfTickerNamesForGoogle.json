@@ -103,5 +103,13 @@
       "hubToRemove" : "",
       "hubReplaceStar" : "*"
     }
+  },
+  {
+    "BBRY" : {
+      "toRemove" : "RY",
+      "replaceStar" : "NYSE:*",
+      "hubToRemove" : "RY",
+      "hubReplaceStar" : "*"
+    }
   }
 ]
