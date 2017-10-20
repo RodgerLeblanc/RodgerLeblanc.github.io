@@ -1,7 +1,7 @@
 
 [
   {
-    "[A-Za-z]{6}=X" : {
+    "^[A-Za-z]{6}=X$" : {
       "toRemove" : "=X",
       "replaceStar" : "CURRENCY:*",
       "hubToRemove" : "=X",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "[A-Za-z]*=X" : {
+    "^[A-Za-z]{3}=X$" : {
       "toRemove" : "=X",
       "replaceStar" : "CURRENCY:USD*",
       "hubToRemove" : "=X",
