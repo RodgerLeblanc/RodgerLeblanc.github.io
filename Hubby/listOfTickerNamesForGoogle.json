@@ -1,6 +1,14 @@
 
 [
   {
+    ".*" : {
+      "toRemove" : "",
+      "replaceStar" : "*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
+    }
+  },
+  {
     "^[A-Za-z]{6}=X$" : {
       "toRemove" : "=X",
       "replaceStar" : "CURRENCY:*",
