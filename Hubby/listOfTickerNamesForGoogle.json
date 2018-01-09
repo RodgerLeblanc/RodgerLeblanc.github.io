@@ -113,6 +113,14 @@
     }
   },
   {
+    "^[Ss][Nn][Aa][Pp]$" : {
+      "toRemove" : "",
+      "replaceStar" : "NYSE:*",
+      "hubToRemove" : "",
+      "hubReplaceStar" : "*"
+    }
+  },
+  {
     "^[Bb]{2}[Rr][Yy]$" : {
       "toRemove" : "RY",
       "replaceStar" : "NYSE:*",
