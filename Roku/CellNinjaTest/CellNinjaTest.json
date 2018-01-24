@@ -1,0 +1,43 @@
+{
+    "providerName": "Les Productions CellNinja",
+    "lastUpdated": "2018-01-21T22:21:37+00:00",
+    "language": "fr",
+    "series": [
+        {
+            "id": "1509428502952",
+            "title": "Mr. Robot",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "1509428502952",
+                            "title": "Épisode 1",
+                            "content": {
+                                "dateAdded": "2018-01-21T22:21:37+00:00",
+                                "videos": [
+                                    {
+                                        "url": "https://example.org/cdn/videos/1509428502952",
+                                        "quality": "UHD",
+                                        "videoType": "HLS"
+                                    }
+                                ],
+                                "duration": 1290
+                            },
+                            "thumbnail": "http://www.awardsdaily.com/tv/wp-content/uploads/2016/05/mr.-robot-key-art.jpg",
+                            "episodeNumber": 1,
+                            "shortDescription": "Le premier épisode"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+                "educational",
+                "science fiction",
+                "thriller"
+            ],
+            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "shortDescription": "Mr. Robot, la série."
+        }
+    ]
+}
