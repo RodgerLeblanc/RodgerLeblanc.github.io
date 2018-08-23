@@ -25,54 +25,6 @@
     }
   },
   {
-    "[A-Za-z]*\\.F" : {
-      "toRemove" : "\\.F",
-      "replaceStar" : "FRA:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.PA" : {
-      "toRemove" : "\\.PA",
-      "replaceStar" : "EPA:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.MC" : {
-      "toRemove" : "\\.MC",
-      "replaceStar" : "MCE:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.NS" : {
-      "toRemove" : "\\.NS",
-      "replaceStar" : "NSE:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.B" : {
-      "toRemove" : "\\.B",
-      "replaceStar" : "TSE:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "[A-Za-z]*\\.TO" : {
-      "toRemove" : "\\.TO",
-      "replaceStar" : "TSE:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
     "\\^DJI" : {
       "toRemove" : "\\^DJI",
       "replaceStar" : "INDEXDJX:.DJI",
@@ -105,34 +57,10 @@
     }
   },
   {
-    "^[Ff][Ii][Tt]$" : {
-      "toRemove" : "",
-      "replaceStar" : "NASDAQ:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "^[Ss][Nn][Aa][Pp]$" : {
-      "toRemove" : "",
-      "replaceStar" : "NYSE:*",
-      "hubToRemove" : "",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
     "^[Bb]{2}[Rr][Yy]$" : {
       "toRemove" : "RY",
-      "replaceStar" : "NYSE:*",
+      "replaceStar" : "BB",
       "hubToRemove" : "RY",
-      "hubReplaceStar" : "*"
-    }
-  },
-  {
-    "^[Bb]{2}$" : {
-      "toRemove" : "",
-      "replaceStar" : "NYSE:*",
-      "hubToRemove" : "",
       "hubReplaceStar" : "*"
     }
   }
