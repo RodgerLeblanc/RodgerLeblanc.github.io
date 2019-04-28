@@ -18,5 +18,47 @@
         "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
         "sponsorType": 0,
         "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+    },
+    {
+        "id": 4,
+        "name": "Desjardins",
+        "imageUrl": "https://i.postimg.cc/3xCRtcxV/desjardins.png",
+        "sponsorType": 0,
+        "promoUrl": "https://www.desjardins.com/"
+    },
+    {
+        "id": 5,
+        "name": "Groupe Doyon",
+        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
+        "sponsorType": 0,
+        "promoUrl": "http://groupedoyon.com/"
+    },
+    {
+        "id": 6,
+        "name": "Marché Raynald Giguère",
+        "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
+        "sponsorType": 0,
+        "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+    },
+    {
+        "id": 7,
+        "name": "La Capitale en Fête",
+        "imageUrl": "https://i.postimg.cc/nLyqJ7pD/domaine-Des30-Arpents.png",
+        "sponsorType": 0,
+        "promoUrl": "http://30arpents.com/"
+    },
+    {
+        "id": 8,
+        "name": "Groupe Doyon",
+        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
+        "sponsorType": 0,
+        "promoUrl": "http://groupedoyon.com/"
+    },
+    {
+        "id": 9,
+        "name": "Marché Raynald Giguère",
+        "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
+        "sponsorType": 0,
+        "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
     }
 ]
