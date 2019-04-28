@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "name": "Jeux gonflables",
+        "description": "Plusieurs jeux gonflables pour petits et grands",
+        "timeStart": "2019-08-17T14:00:00.000Z",
+        "timeEnd": "2019-08-17T20:30:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/jeuxGonflables.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kermesse",
+        "description": "Relevez des défis afin de gagner des récompenses",
+        "timeStart": "2019-08-17T14:30:00.000Z",
+        "timeEnd": "2019-08-17T15:30:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/kermesse.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blé d'inde",
+        "description": "Dîner au blé d'inde gratuit",
+        "timeStart": "2019-08-17T16:00:00.000Z",
+        "timeEnd": "2019-08-17T17:00:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/bleDInde.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tyrolienne",
+        "description": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
+        "timeStart": "2019-08-17T14:00:00.000Z",
+        "timeEnd": "2019-08-17T20:30:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/tyrolienne.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DJ",
+        "description": "Animation toute la journée par un DJ professionnel",
+        "timeStart": "2019-08-17T14:00:00.000Z",
+        "timeEnd": "2019-08-17T20:30:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/dj.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bataille d'éponges",
+        "description": "De retour à la demande générale, préparez-vous à être mouillé!",
+        "timeStart": "2019-08-17T18:00:00.000Z",
+        "timeEnd": "2019-08-17T18:30:00.000Z",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/batailleEponges.jpg"
+    }
+]
