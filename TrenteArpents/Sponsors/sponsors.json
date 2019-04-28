@@ -3,14 +3,14 @@
         "name": "Domaine des 30 Arpents",
         "imageUrl": "https://i.postimg.cc/nLyqJ7pD/domaine-Des30-Arpents.png",
         "sponsorType": 0,
-        "promoUrl": "https://30arpents.com/"
+        "promoUrl": "http://30arpents.com/"
     },
     {
         "id": 2,
         "name": "Groupe Doyon",
         "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
         "sponsorType": 0,
-        "promoUrl": "https://groupedoyon.com/"
+        "promoUrl": "http://groupedoyon.com/"
     },
     {
         "id": 3,
