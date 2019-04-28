@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "Domaine des 30 Arpents",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/domaineDes30Arpents.png",
+        "sponsorType": 0,
+        "promoUrl": "https://30arpents.com/"
+    },
+    {
+        "id": 2,
+        "name": "Groupe Doyon",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/groupeDoyon.png",
+        "sponsorType": 0,
+        "promoUrl": "https://groupedoyon.com/"
+    },
+    {
+        "id": 3,
+        "name": "Marché Raynald Giguère",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/raynaldGiguere.png",
+        "sponsorType": 0,
+        "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+    }
+]
