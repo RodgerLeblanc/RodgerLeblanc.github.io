@@ -7,58 +7,79 @@
     },
     {
         "id": 2,
-        "name": "Groupe Doyon",
-        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
-        "sponsorType": 0,
-        "promoUrl": "http://groupedoyon.com/"
-    },
-    {
-        "id": 3,
         "name": "Marché Raynald Giguère",
         "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
         "sponsorType": 0,
         "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+    },
+    {
+        "id": 3,
+        "name": "Groupe Doyon",
+        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
+        "sponsorType": 0,
+        "promoUrl": "http://groupedoyon.com/"
     },
     {
         "id": 4,
         "name": "Desjardins",
         "imageUrl": "https://i.postimg.cc/WbfLTmfz/desjardins.png",
         "sponsorType": 0,
-        "promoUrl": "https://www.desjardins.com/"
+        "promoUrl": "https://www.desjardins.com/caisselaviolette"
     },
     {
         "id": 5,
-        "name": "Groupe Doyon",
-        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
+        "name": "Couture & Thériault",
+        "imageUrl": "https://i.postimg.cc/wMFJgSjs/couture-Theriault.png",
         "sponsorType": 0,
-        "promoUrl": "http://groupedoyon.com/"
+        "promoUrl": "https://www.couturetheriault.com/"
     },
     {
         "id": 6,
-        "name": "Marché Raynald Giguère",
-        "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
-        "sponsorType": 0,
-        "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+        "name": "Michel Messier RE/MAX",
+        "imageUrl": "https://i.postimg.cc/P5KtKTFD/michel-Messier.jpg",
+        "sponsorType": 1,
+        "promoUrl": "https://michelmessier.com/"
     },
     {
         "id": 7,
         "name": "La Capitale en Fête",
-        "imageUrl": "https://i.postimg.cc/nLyqJ7pD/domaine-Des30-Arpents.png",
-        "sponsorType": 0,
-        "promoUrl": "http://30arpents.com/"
+        "imageUrl": "https://i.postimg.cc/HxDPy749/capitale-En-Fete.png",
+        "sponsorType": 1,
+        "promoUrl": "https://lacapitaleenfete.qc.ca/"
     },
     {
         "id": 8,
-        "name": "Groupe Doyon",
-        "imageUrl": "https://i.postimg.cc/NG7m35VK/groupe-Doyon.png",
-        "sponsorType": 0,
-        "promoUrl": "http://groupedoyon.com/"
+        "name": "Stantec",
+        "imageUrl": "https://i.postimg.cc/1tmw2m9Z/stantec.png",
+        "sponsorType": 1,
+        "promoUrl": "https://www.stantec.com/fr"
     },
     {
         "id": 9,
-        "name": "Marché Raynald Giguère",
-        "imageUrl": "https://i.postimg.cc/FH1SkGKS/raynald-Giguere.png",
-        "sponsorType": 0,
-        "promoUrl": "https://www.iga.net/fr/recherche_de_magasin/magasin/8035-marche-raynald-giguere-inc-"
+        "name": "Pharmacie Daniel Paquette",
+        "imageUrl": "https://i.postimg.cc/FFf8BN1S/daniel-Paquette.png",
+        "sponsorType": 1,
+        "promoUrl": "https://www.jeancoutu.com/localisateur-succursale/trois-rivieres-10300-chemin-sainte-marguerite-g9b-6m4/481/"
+    },
+    {
+        "id": 10,
+        "name": "FXBoisvert",
+        "imageUrl": "https://i.postimg.cc/K8X2N4N4/fx-Boisvert.png",
+        "sponsorType": 1,
+        "promoUrl": "https://fxboisvert.com/"
+    },
+    {
+        "id": 11,
+        "name": "Dépanneur Sonichoix",
+        "imageUrl": "https://i.postimg.cc/P5rmSbM5/sonic.png",
+        "sponsorType": 2,
+        "promoUrl": "http://www.sonic.coop/fr/d%C3%A9panneur-service-sonic"
+    },
+    {
+        "id": 12,
+        "name": "Quincaillerie M. Plante",
+        "imageUrl": "https://i.postimg.cc/NjMdKvSD/quincaillerie-MPlante.png",
+        "sponsorType": 2,
+        "promoUrl": "https://www.homehardware.ca/fr/store/25212"
     }
 ]
