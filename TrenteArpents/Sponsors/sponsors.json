@@ -52,7 +52,8 @@
         "name": "Stantec",
         "imageUrl": "https://i.postimg.cc/1tmw2m9Z/stantec.png",
         "sponsorType": 1,
-        "promoUrl": "https://www.stantec.com/fr"
+        "promoUrl": "https://www.stantec.com/fr",
+        "backgroundColor": "#FFFFFF"
     },
     {
         "id": 9,
