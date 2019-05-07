@@ -1,49 +1,90 @@
 [{
         "id": 1,
-        "name": "Jeux gonflables",
-        "description": "Plusieurs jeux gonflables pour petits et grands",
-        "timeStart": "2019-08-17T10:00:00.000Z",
-        "timeEnd": "2019-08-17T16:30:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/jeuxGonflables.jpg"
+        "name": "Ouverture du site",
+        "time": "10:00",
+        "imageUrl": "https://i.postimg.cc/g0ct9r8z/ouverture-Du-Site.jpg"
     },
     {
         "id": 2,
-        "name": "Kermesse",
-        "description": "Relevez des défis afin de gagner des récompenses",
-        "timeStart": "2019-08-17T10:30:00.000Z",
-        "timeEnd": "2019-08-17T11:30:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/kermesse.jpg"
+        "name": "Jeux gonflables",
+        "description": "Plusieurs jeux gonflables pour petits et grands",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/PqMy2HRg/jeux-Gonflables.jpg"
     },
     {
         "id": 3,
-        "name": "Blé d'inde",
-        "description": "Dîner au blé d'inde gratuit",
-        "timeStart": "2019-08-17T12:00:00.000Z",
-        "timeEnd": "2019-08-17T13:00:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/bleDInde.jpg"
+        "name": "La Grande Kermesse",
+        "description": "Participez à la Kermesse pour récolter des coupons que vous pourrez échanger contre des prix!",
+        "time": "10:30 - 11:30",
+        "imageUrl": "https://i.postimg.cc/nrX1FDhx/kermesse.jpg"
     },
     {
         "id": 4,
-        "name": "Tyrolienne",
-        "description": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
-        "timeStart": "2019-08-17T10:00:00.000Z",
-        "timeEnd": "2019-08-17T16:30:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/tyrolienne.jpg"
+        "name": "Blé d'inde",
+        "description": "Dîner au blé d'inde gratuit",
+        "time": "12:00 - 13:00",
+        "imageUrl": "https://i.postimg.cc/sg7wG79D/bleDInde.jpg"
     },
     {
         "id": 5,
-        "name": "DJ",
-        "description": "Animation toute la journée par un DJ professionnel",
-        "timeStart": "2019-08-17T10:00:00.000Z",
-        "timeEnd": "2019-08-17T16:30:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/dj.jpg"
+        "name": "Tyrolienne",
+        "description": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/1Xbrf38q/tyrolienne.jpg"
     },
     {
         "id": 6,
+        "name": "DJ",
+        "description": "Animation toute la journée par un DJ professionnel",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/HLfYvG8t/dj.jpg"
+    },
+    {
+        "id": 7,
         "name": "Bataille d'éponges",
         "description": "De retour à la demande générale, préparez-vous à être mouillé!",
-        "timeStart": "2019-08-17T14:00:00.000Z",
-        "timeEnd": "2019-08-17T14:30:00.000Z",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/batailleEponges.jpg"
+        "time": "14:00 - 14:30",
+        "imageUrl": "https://i.postimg.cc/wj4TJR6Z/bataille-Eponges.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Spectacle",
+        "description": "Plus de détails bientôt...",
+        "time": "13:00 - 14:00",
+        "imageUrl": "https://i.postimg.cc/4xjyqHrt/spectacle.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tombe à l'eau",
+        "description": "Pendant la Kermesse ou après, venez mettre vos amis au défi de vous faire tomber à l'eau",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/L5F0bDV7/tombeEau.png"
+    },
+    {
+        "id": 10,
+        "name": "Nicô et Filles",
+        "description": "Cantine disponible sur place à coût réduit",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/bJpyfxLG/nico-Et-Filles.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Collations",
+        "description": "Gratuit!",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/QdDKdT63/fermeture-Du-Site.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Popcorn, Sno-Kone, Barbe-à-papa",
+        "description": "Gratuit!",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/cJrxx1NW/popcorn.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Fermeture du site",
+        "time": "16:30",
+        "imageUrl": "https://i.postimg.cc/FFcKkKks/fermeture-Du-Site.jpg"
     }
 ]
