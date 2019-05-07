@@ -2,7 +2,7 @@
         "id": 1,
         "name": "Ouverture du site",
         "time": "10:00",
-        "imageUrl": "https://i.postimg.cc/g0ct9r8z/ouverture-Du-Site.jpg"
+        "imageUrl": "https://i.postimg.cc/x1KmYRnY/ouverture-Du-Site.jpg"
     },
     {
         "id": 2,
@@ -13,52 +13,51 @@
     },
     {
         "id": 3,
-        "name": "La Grande Kermesse",
-        "description": "Participez à la Kermesse pour récolter des coupons que vous pourrez échanger contre des prix!",
-        "time": "10:30 - 11:30",
-        "imageUrl": "https://i.postimg.cc/nrX1FDhx/kermesse.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Blé d'inde",
-        "description": "Dîner au blé d'inde gratuit",
-        "time": "12:00 - 13:00",
-        "imageUrl": "https://i.postimg.cc/sg7wG79D/bleDInde.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Tyrolienne",
-        "description": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
-        "time": "Toute la journée",
-        "imageUrl": "https://i.postimg.cc/1Xbrf38q/tyrolienne.jpg"
-    },
-    {
-        "id": 6,
         "name": "DJ",
         "description": "Animation toute la journée par un DJ professionnel",
         "time": "Toute la journée",
         "imageUrl": "https://i.postimg.cc/HLfYvG8t/dj.jpg"
     },
     {
+        "id": 4,
+        "name": "Tyrolienne",
+        "description": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/1Xbrf38q/tyrolienne.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Barbe à papa",
+        "description": "La meilleure en ville",
+        "imageUrl": "https://i.postimg.cc/44PX92Qn/barbe-APapa.jpg"
+    },
+    {
+        "id": 6,
+        "name": "La Grande Kermesse",
+        "description": "Participez à la Kermesse pour récolter des coupons que vous pourrez échanger contre des prix!",
+        "time": "10:30 - 11:30",
+        "imageUrl": "https://i.postimg.cc/nrX1FDhx/kermesse.jpg"
+    },
+    {
         "id": 7,
-        "name": "Bataille d'éponges",
-        "description": "De retour à la demande générale, préparez-vous à être mouillé!",
-        "time": "14:00 - 14:30",
-        "imageUrl": "https://i.postimg.cc/wj4TJR6Z/bataille-Eponges.jpg"
+        "name": "Collations",
+        "description": "Gratuit!",
+        "time": "Toute la journée",
+        "imageUrl": "https://i.postimg.cc/QdDKdT63/fermeture-Du-Site.jpg"
     },
     {
         "id": 8,
-        "name": "Spectacle",
-        "description": "Plus de détails bientôt...",
-        "time": "13:00 - 14:00",
-        "imageUrl": "https://i.postimg.cc/4xjyqHrt/spectacle.jpg"
-    },
-    {
-        "id": 9,
         "name": "Tombe à l'eau",
         "description": "Pendant la Kermesse ou après, venez mettre vos amis au défi de vous faire tomber à l'eau",
         "time": "Toute la journée",
         "imageUrl": "https://i.postimg.cc/L5F0bDV7/tombeEau.png"
+    },
+    {
+        "id": 9,
+        "name": "Blé d'inde",
+        "description": "Dîner au blé d'inde gratuit",
+        "time": "12:00 - 13:00",
+        "imageUrl": "https://i.postimg.cc/sg7wG79D/bleDInde.jpg"
     },
     {
         "id": 10,
@@ -69,20 +68,33 @@
     },
     {
         "id": 11,
-        "name": "Collations",
-        "description": "Gratuit!",
-        "time": "Toute la journée",
-        "imageUrl": "https://i.postimg.cc/QdDKdT63/fermeture-Du-Site.jpg"
+        "name": "Spectacle",
+        "description": "Plus de détails bientôt...",
+        "time": "13:00 - 14:00",
+        "imageUrl": "https://i.postimg.cc/4xjyqHrt/spectacle.jpg"
     },
     {
         "id": 12,
-        "name": "Popcorn, Sno-Kone, Barbe-à-papa",
+        "name": "Sno-Kone",
+        "description": "Rafraichissez-vous avec un cornet glacé!",
+        "imageUrl": "https://i.postimg.cc/28dhhDXh/snokone.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Bataille d'éponges",
+        "description": "De retour à la demande générale, préparez-vous à être mouillé!",
+        "time": "14:00 - 14:30",
+        "imageUrl": "https://i.postimg.cc/wj4TJR6Z/bataille-Eponges.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Popcorn",
         "description": "Gratuit!",
         "time": "Toute la journée",
         "imageUrl": "https://i.postimg.cc/cJrxx1NW/popcorn.jpg"
     },
     {
-        "id": 13,
+        "id": 15,
         "name": "Fermeture du site",
         "time": "16:30",
         "imageUrl": "https://i.postimg.cc/FFcKkKks/fermeture-Du-Site.jpg"
