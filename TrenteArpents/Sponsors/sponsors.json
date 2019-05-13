@@ -82,5 +82,43 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/quincaillerieMPlante.png",
         "sponsorType": 2,
         "promoUrl": "https://www.homehardware.ca/fr/store/25212"
+    },
+    {
+        "id": 13,
+        "name": "Balcons + Palettes 3D",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/balconsPalettes3D.png",
+        "sponsorType": 3,
+        "promoUrl": "https://www.bp3d.ca/"
+    },
+    {
+        "id": 14,
+        "name": "Tocara",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/tocara.jpg",
+        "sponsorType": 3,
+        "promoUrl": "https://www.facebook.com/pages/category/Jewelry-Watches/Am%C3%A9lie-Ringuette-conseill%C3%A8re-Tocara-1413826481975114/"
+    },
+    {
+        "id": 15,
+        "name": "S.M. Mécanique",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/smMecanique.png",
+        "sponsorType": 3,
+        "promoUrl": "http://locations.autovalue.com/qc/trois-rivieres/72527/"
+    },
+    {
+        "id": 16,
+        "name": "Construction SIPRO inc.",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
+        "sponsorType": 3,
+        "promoUrl": "https://constructioncommerciale.com/"
+    },
+    {
+        "id": 17,
+        "name": "Frimousse",
+        "sponsorType": 4
+    },
+    {
+        "id": 18,
+        "name": "Ferme Horticole Gagnon",
+        "sponsorType": 4
     }
 ]
