@@ -72,7 +72,7 @@
     {
         "id": 10,
         "name": "Nicô et Filles",
-        "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!",
+        "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!\n\nMenu:\nPoutine\nPoutine saucisse\nHot dog vapeur\nRondelle d'oignon\nFondue parmesan maison et coulis poivron grillé\nFrites",
         "shortDescription": "Cantine disponible sur place à coût réduit",
         "time": "Toute la journée",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/nicoEtFilles.jpg"
