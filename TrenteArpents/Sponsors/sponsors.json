@@ -1,4 +1,11 @@
 [{
+        "id": 0,
+        "name": "L'Auberge du Lac Saint-Pierre",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/aubergeDuLacStPierre.jpg",
+        "sponsorType": 0,
+        "promoUrl": "http://www.aubergelacst-pierre.com/fr/auberge-mauricie/accueil/"
+    },
+    {
         "id": 1,
         "name": "Domaine des 30 Arpents",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/domaineDes30Arpents.png",
