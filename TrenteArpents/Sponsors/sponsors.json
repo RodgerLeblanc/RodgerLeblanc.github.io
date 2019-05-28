@@ -1,11 +1,4 @@
 [{
-        "id": 0,
-        "name": "L'Auberge du Lac Saint-Pierre",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/aubergeDuLacStPierre.jpg",
-        "sponsorType": 0,
-        "promoUrl": "http://www.aubergelacst-pierre.com/fr/auberge-mauricie/accueil/"
-    },
-    {
         "id": 1,
         "name": "Domaine des 30 Arpents",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/domaineDes30Arpents.png",
@@ -28,34 +21,41 @@
     },
     {
         "id": 4,
+        "name": "L'Auberge du Lac Saint-Pierre",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/aubergeDuLacStPierre.jpg",
+        "sponsorType": 0,
+        "promoUrl": "http://www.aubergelacst-pierre.com/fr/auberge-mauricie/accueil/"
+    },
+    {
+        "id": 5,
         "name": "Desjardins",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/desjardins.png",
         "sponsorType": 0,
         "promoUrl": "https://www.desjardins.com/caisselaviolette"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Couture & Thériault",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/coutureTheriault.png",
         "sponsorType": 0,
         "promoUrl": "https://www.couturetheriault.com/"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Michel Messier RE/MAX",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/michelMessier.jpg",
         "sponsorType": 1,
         "promoUrl": "https://michelmessier.com/"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "La Capitale en Fête",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/capitaleEnFete.png",
         "sponsorType": 1,
         "promoUrl": "https://lacapitaleenfete.qc.ca/"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Stantec",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/stantec.png",
         "sponsorType": 1,
@@ -63,68 +63,68 @@
         "backgroundColor": "#FFFFFF"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Pharmacie Daniel Paquette",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/danielPaquette.png",
         "sponsorType": 1,
         "promoUrl": "https://www.jeancoutu.com/localisateur-succursale/trois-rivieres-10300-chemin-sainte-marguerite-g9b-6m4/481/"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "FXBoisvert",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/fxBoisvert.png",
         "sponsorType": 1,
         "promoUrl": "https://fxboisvert.com/"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Dépanneur Sonichoix",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/sonic.png",
         "sponsorType": 2,
         "promoUrl": "http://www.sonic.coop/fr/d%C3%A9panneur-service-sonic"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Quincaillerie M. Plante",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/quincaillerieMPlante.png",
         "sponsorType": 2,
         "promoUrl": "https://www.homehardware.ca/fr/store/25212"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Balcons + Palettes 3D",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/balconsPalettes3D.png",
         "sponsorType": 3,
         "promoUrl": "https://www.bp3d.ca/"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Amélie Ringuette, conseillère Tocara",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/tocara.jpg",
         "sponsorType": 3,
         "promoUrl": "https://tocaraplus.com/amelieringuette"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "S.M. Mécanique",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/smMecanique.png",
         "sponsorType": 3,
         "promoUrl": "http://locations.autovalue.com/qc/trois-rivieres/72527/"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Construction SIPRO inc.",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
         "sponsorType": 3,
         "promoUrl": "https://constructioncommerciale.com/"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Frimousse",
         "sponsorType": 4
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Ferme Horticole Gagnon",
         "sponsorType": 4
     }
