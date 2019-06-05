@@ -4,7 +4,7 @@
         "time": "10:00",
         "description": "Ouverture officielle du site, nous vous attendons en grand nombre!",
         "shortDescription": "Samedi 17 août 2019",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/ouvertureDuSite.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/ouvertureDuSite.jpg"
     },
     {
         "id": 2,
@@ -12,7 +12,7 @@
         "description": "Comme à chaque année, les jeux gonflables sont une partie intégrale de la fête de quartier. Venez essayer les nouveaux jeux gonflables, ils sauront plaire aux petits et grands.",
         "shortDescription": "Plusieurs jeux gonflables pour petits et grands",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/jeuxGonflables.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/jeuxGonflables.jpg"
     },
     {
         "id": 3,
@@ -20,7 +20,7 @@
         "description": "Après plusieurs années derrière les tables tournantes de la fête de quartier, notre DJ Marc-André Audet nous revient une fois de plus pour mettre le feu à la place!",
         "shortDescription": "Animation toute la journée par un DJ professionnel",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/dj.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/dj.jpg"
     },
     {
         "id": 4,
@@ -28,14 +28,14 @@
         "description": "En exclusivité cette année, venez essayez notre tyrolienne de plus de 100 pieds, vous n'aurez jamais traversé le parc Grande-Allée aussi vite! Coeurs sensibles s'abstenir!\nPoids minimum : 60 lbs\nPoids maximum : 225 lbs",
         "shortDescription": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/tyrolienne.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tyrolienne.jpg"
     },
     {
         "id": 5,
         "name": "Barbe à papa",
         "description": "Pour une fête digne d'un 20e anniversaire, nous avons décidé de gâter les amateurs de sucre avec une machine à barbe à papa. Venez l'essayer, c'est gratuit pour tout le monde.\nQuantité limitée",
         "shortDescription": "La meilleure en ville",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/barbeAPapa.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/barbeAPapa.jpg"
     },
     {
         "id": 6,
@@ -43,7 +43,7 @@
         "description": "Pour la 3e année consécutive, venez vivre la Grande Kermesse, vous devrez relever des défis afin de gagner des prix.",
         "shortDescription": "Participez à la Kermesse pour récolter des coupons que vous pourrez échanger contre des prix!",
         "time": "10:30 - 11:30",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/kermesse.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/kermesse.jpg"
     },
     {
         "id": 7,
@@ -51,7 +51,7 @@
         "description": "Des collations et breuvages seront servis toute la journée gratuitement.",
         "shortDescription": "Gratuit!",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/collations.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/collations.jpg"
     },
     {
         "id": 8,
@@ -59,7 +59,7 @@
         "description": "Vous avez été nombreux à participer à notre jeu de tombe à l'eau l'an dernier, nous renouvelons l'expérience cette année avec un module un peu différent mais tout aussi éclaboussant!",
         "shortDescription": "Pendant la Kermesse ou après, venez mettre vos amis au défi de vous faire tomber à l'eau",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/tombeEau.png"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tombeEau.png"
     },
     {
         "id": 9,
@@ -67,7 +67,7 @@
         "description": "La Ferme Horticole Gagnon est fière de fournir le dîner à tous les résidents pour cette 20e fête de quartier, tout à fait gratuitement.",
         "shortDescription": "Dîner au blé d'inde gratuit",
         "time": "12:00 - 13:00",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/bleDInde.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/bleDInde.jpg"
     },
     {
         "id": 10,
@@ -75,7 +75,7 @@
         "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!\n\nMenu:\nPoutine\nPoutine saucisse\nHot dog vapeur\nRondelle d'oignon\nFondue parmesan maison et coulis poivron grillé\nFrites",
         "shortDescription": "Cantine disponible sur place à coût réduit",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/nicoEtFilles.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/nicoEtFilles.jpg"
     },
     {
         "id": 11,
@@ -83,14 +83,14 @@
         "description": "Plus de détails bientôt...",
         "shortDescription": "Plus de détails bientôt...",
         "time": "14:00 - 14:30",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/spectacle.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/spectacle.jpg"
     },
     {
         "id": 12,
         "name": "Sno-Kone",
         "description": "Nouveauté cette année, venez essayer nos Sno-Kone! C'est quoi un Sno-Kone? C'est de la glace concassée à saveur, semblable à la Slush. C'est gratuit pour tous.\nQuantité limité",
         "shortDescription": "Rafraichissez-vous avec un cornet glacé!",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/snokone.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/snokone.jpg"
     },
     {
         "id": 13,
@@ -98,7 +98,7 @@
         "description": "La fête de quartier ne serait pas la même sans la bataille d'éponges! Véritable succès et instigateur de fous rires assurés, la bataille d'éponge est l'occasion pour les enfants de se rafraîchir tout en ayant du plaisir très contagieux.",
         "shortDescription": "De retour à la demande générale, préparez-vous à être mouillé!",
         "time": "15:00 - 15:30",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/batailleEponges.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/batailleEponges.jpg"
     },
     {
         "id": 14,
@@ -106,13 +106,13 @@
         "description": "Qui n'aime pas le popcorn? Nous, on adore, et on ramène la machine à popcorn pour une 2e année consécutive. Toujours gratuit!\nQuantité limitée",
         "shortDescription": "Gratuit!",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/popcorn.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/popcorn.jpg"
     },
     {
         "id": 15,
         "name": "Fermeture du site",
         "description": "Venez donner un coup de main aux organisateurs pour démonter le site et les jeux gonflables.",
         "time": "16:30",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Dark/fermetureDuSite.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/fermetureDuSite.jpg"
     }
 ]
