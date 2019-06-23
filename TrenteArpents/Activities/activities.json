@@ -24,9 +24,9 @@
     },
     {
         "id": 4,
-        "name": "Tyrolienne - Présenté par Le Domaine des 30 Arpents",
-        "description": "En exclusivité cette année, viens essayer notre tyrolienne de plus de 100 pieds, tu n'auras jamais traversé le parc Grande-Allée aussi vite! Coeurs sensibles s'abstenir!\nPoids minimum : 60 lbs\nPoids maximum : 225 lbs\n\nUne présentation : Le Domaine des 30 Arpents",
-        "shortDescription": "Qui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
+        "name": "Tyrolienne",
+        "description": "En exclusivité cette année, viens essayer notre tyrolienne de plus de 100 pieds, tu n'auras jamais traversé le parc Grande-Allée aussi vite! Coeurs sensibles s'abstenir!\nPoids minimum : 60 lbs\nPoids maximum : 225 lbs\n\nUne présentation : Domaine des 30 Arpents",
+        "shortDescription": "Présenté par : Domaine des 30 Arpents\nQui sera assez brave pour essayer notre tyrolienne de plus de 100 pieds!",
         "time": "Toute la journée",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tyrolienne.jpg"
     },
