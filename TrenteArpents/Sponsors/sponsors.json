@@ -64,6 +64,13 @@
     },
     {
         "id": 10,
+        "name": "Super Sagamie Vidéo Jeux",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/superSagamie.jpg",
+        "sponsorType": 1,
+        "promoUrl": "https://www.facebook.com/pages/category/Shopping---Retail/Vision-vid%C3%A9o-1549911645294005/"
+    },
+    {
+        "id": 11,
         "name": "GéniCité",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/genicite.png",
         "sponsorType": 2,
@@ -71,39 +78,32 @@
         "backgroundColor": "#FFFFFF"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Quincaillerie M. Plante",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/quincaillerieMPlante.png",
         "sponsorType": 2,
         "promoUrl": "https://www.homehardware.ca/fr/store/25212"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Construction CMA",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionCma.png",
         "sponsorType": 2,
         "promoUrl": "https://www.constructioncma.ca/"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Géomatique BLP Arpenteurs-géomètres",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/geomatiqueBlp.png",
         "sponsorType": 2,
         "promoUrl": "https://geomatiqueblp.com/"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "FXBoisvert",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/fxBoisvert.png",
         "sponsorType": 2,
         "promoUrl": "https://fxboisvert.com/"
-    },
-    {
-        "id": 15,
-        "name": "Super Sagamie Vidéo Jeux",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/superSagamie.jpg",
-        "sponsorType": 2,
-        "promoUrl": "https://www.facebook.com/pages/category/Shopping---Retail/Vision-vid%C3%A9o-1549911645294005/"
     },
     {
         "id": 16,
