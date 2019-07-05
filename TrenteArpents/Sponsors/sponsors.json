@@ -79,13 +79,6 @@
     },
     {
         "id": 12,
-        "name": "Super Sagamie Vidéo Jeux",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/superSagamie.jpg",
-        "sponsorType": 1,
-        "promoUrl": "https://www.facebook.com/pages/category/Shopping---Retail/Vision-vid%C3%A9o-1549911645294005/"
-    },
-    {
-        "id": 13,
         "name": "GéniCité",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/genicite.png",
         "sponsorType": 2,
@@ -93,75 +86,79 @@
         "backgroundColor": "#FFFFFF"
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Quincaillerie M. Plante",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/quincaillerieMPlante.png",
         "sponsorType": 2,
         "promoUrl": "https://www.homehardware.ca/fr/store/25212"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Construction CMA",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionCma.png",
         "sponsorType": 2,
         "promoUrl": "https://www.constructioncma.ca/"
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Géomatique BLP Arpenteurs-géomètres",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/geomatiqueBlp.png",
         "sponsorType": 2,
         "promoUrl": "https://geomatiqueblp.com/"
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "FXBoisvert",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/fxBoisvert.png",
         "sponsorType": 2,
         "promoUrl": "https://fxboisvert.com/"
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Balcons + Palettes 3D",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/balconsPalettes3D.png",
         "sponsorType": 3,
         "promoUrl": "https://www.bp3d.ca/"
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Amélie Ringuette, conseillère Tocara",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/tocara.jpg",
         "sponsorType": 3,
         "promoUrl": "https://tocaraplus.com/amelieringuette"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Massothérapie Nathalie Carrier",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/nathalieCarrier.png",
         "sponsorType": 3,
         "promoUrl": "http://cncortho.com/services/"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Déneigement Trévi",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/deneigementTrevi.png",
         "sponsorType": 3,
         "promoUrl": "http://deneigementtrevi.ca/"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "S.M. Mécanique",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/smMecanique.png",
         "sponsorType": 3,
         "promoUrl": "http://locations.autovalue.com/qc/trois-rivieres/72527/"
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Construction SIPRO inc.",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
         "sponsorType": 3,
-        "isVisible": false,
         "promoUrl": "https://constructioncommerciale.com/"
+    },
+    {
+        "id": 23,
+        "name": "Super Sagamie Vidéo Jeux",
+        "sponsorType": 4
     },
     {
         "id": 24,
