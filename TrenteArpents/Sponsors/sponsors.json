@@ -108,52 +108,52 @@
     },
     {
         "id": 16,
+        "name": "Construction SIPRO inc.",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
+        "sponsorType": 2,
+        "promoUrl": "https://constructioncommerciale.com/"
+    },
+    {
+        "id": 17,
         "name": "FXBoisvert",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/fxBoisvert.png",
         "sponsorType": 2,
         "promoUrl": "https://fxboisvert.com/"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Balcons + Palettes 3D",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/balconsPalettes3D.png",
         "sponsorType": 3,
         "promoUrl": "https://www.bp3d.ca/"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Amélie Ringuette, conseillère Tocara",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/tocara.jpg",
         "sponsorType": 3,
         "promoUrl": "https://tocaraplus.com/amelieringuette"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Massothérapie Nathalie Carrier",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/nathalieCarrier.png",
         "sponsorType": 3,
         "promoUrl": "http://cncortho.com/services/"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Déneigement Trévi",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/deneigementTrevi.png",
         "sponsorType": 3,
         "promoUrl": "http://deneigementtrevi.ca/"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "S.M. Mécanique",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/smMecanique.png",
         "sponsorType": 3,
         "promoUrl": "http://locations.autovalue.com/qc/trois-rivieres/72527/"
-    },
-    {
-        "id": 22,
-        "name": "Construction SIPRO inc.",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
-        "sponsorType": 3,
-        "promoUrl": "https://constructioncommerciale.com/"
     },
     {
         "id": 23,
