@@ -158,26 +158,31 @@
     {
         "id": 23,
         "name": "Super Sagamie Vidéo Jeux",
-        "sponsorType": 4
+        "sponsorType": 4,
+        "promoUrl": "https://www.facebook.com/pages/category/Shopping---Retail/Vision-vid%C3%A9o-1549911645294005/"
     },
     {
         "id": 24,
         "name": "Centre Saga",
-        "sponsorType": 4
+        "sponsorType": 4,
+        "promoUrl": "http://www.centresaga.ca/"
     },
     {
         "id": 25,
         "name": "Dépanneur Sonichoix",
-        "sponsorType": 4
+        "sponsorType": 4,
+        "promoUrl": "https://www.facebook.com/pages/category/Gas-Station/D%C3%A9panneur-Sonichoix-Pointe-du-lac-921561807893400/"
     },
     {
         "id": 26,
         "name": "Subway",
-        "sponsorType": 4
+        "sponsorType": 4,
+        "promoUrl": "https://www.subway.com/fr-CA"
     },
     {
         "id": 27,
         "name": "Ferme Horticole Gagnon",
-        "sponsorType": 4
+        "sponsorType": 4,
+        "promoUrl": "https://fermegagnon.com/"
     }
 ]
