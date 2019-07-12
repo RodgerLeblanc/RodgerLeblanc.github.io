@@ -14,24 +14,24 @@
     },
     {
         "id": 3,
-        "name": "Groupe Doyon",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/groupeDoyon.png",
-        "sponsorType": 0,
-        "promoUrl": "http://groupedoyon.com/"
-    },
-    {
-        "id": 4,
         "name": "L'Auberge du Lac Saint-Pierre",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/aubergeDuLacStPierre.jpg",
         "sponsorType": 0,
         "promoUrl": "http://www.aubergelacst-pierre.com/fr/auberge-mauricie/accueil/"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Maçonnerie Boulay",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/maconnerieBoulay.jpg",
         "sponsorType": 0,
         "promoUrl": "https://www.maconnerieboulay.com/"
+    },
+    {
+        "id": 5,
+        "name": "Groupe Doyon",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/groupeDoyon.png",
+        "sponsorType": 0,
+        "promoUrl": "http://groupedoyon.com/"
     },
     {
         "id": 6,
