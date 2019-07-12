@@ -79,6 +79,14 @@
     },
     {
         "id": 12,
+        "name": "Construction RLR Turcotte",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionRLRTurcotte.png",
+        "sponsorType": 1,
+        "promoUrl": "https://www.constructionrlrturcotte.ca/",
+        "backgroundColor": "#FFFFFF"
+    },
+    {
+        "id": 13,
         "name": "GéniCité",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/genicite.png",
         "sponsorType": 2,
@@ -86,101 +94,101 @@
         "backgroundColor": "#FFFFFF"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Quincaillerie M. Plante",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/quincaillerieMPlante.png",
         "sponsorType": 2,
         "promoUrl": "https://www.homehardware.ca/fr/store/25212"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Construction CMA",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionCma.png",
         "sponsorType": 2,
         "promoUrl": "https://www.constructioncma.ca/"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Géomatique BLP Arpenteurs-géomètres",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/geomatiqueBlp.png",
         "sponsorType": 2,
         "promoUrl": "https://geomatiqueblp.com/"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Construction SIPRO inc.",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/constructionSipro.png",
         "sponsorType": 2,
         "promoUrl": "https://constructioncommerciale.com/"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "FXBoisvert",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/fxBoisvert.png",
         "sponsorType": 2,
         "promoUrl": "https://fxboisvert.com/"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Balcons + Palettes 3D",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/balconsPalettes3D.png",
         "sponsorType": 3,
         "promoUrl": "https://www.bp3d.ca/"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Amélie Ringuette, conseillère Tocara",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/tocara.jpg",
         "sponsorType": 3,
         "promoUrl": "https://tocaraplus.com/amelieringuette"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Massothérapie Nathalie Carrier",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/nathalieCarrier.png",
         "sponsorType": 3,
         "promoUrl": "http://cncortho.com/services/"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Déneigement Trévi",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/deneigementTrevi.png",
         "sponsorType": 3,
         "promoUrl": "http://deneigementtrevi.ca/"
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "S.M. Mécanique",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Sponsors/Images/smMecanique.png",
         "sponsorType": 3,
         "promoUrl": "http://locations.autovalue.com/qc/trois-rivieres/72527/"
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "Super Sagamie Vidéo Jeux",
         "sponsorType": 4,
         "promoUrl": "https://www.facebook.com/pages/category/Shopping---Retail/Vision-vid%C3%A9o-1549911645294005/"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "Centre Saga",
         "sponsorType": 4,
         "promoUrl": "http://www.centresaga.ca/"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Dépanneur Sonichoix",
         "sponsorType": 4,
         "promoUrl": "https://www.facebook.com/pages/category/Gas-Station/D%C3%A9panneur-Sonichoix-Pointe-du-lac-921561807893400/"
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "Subway",
         "sponsorType": 4,
         "promoUrl": "https://www.subway.com/fr-CA"
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Ferme Horticole Gagnon",
         "sponsorType": 4,
         "promoUrl": "https://fermegagnon.com/"
