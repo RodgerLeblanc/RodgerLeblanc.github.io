@@ -55,22 +55,6 @@
     },
     {
         "id": 8,
-        "name": "Tombe à l'eau",
-        "description": "Vous avez été nombreux à participer à notre jeu de tombe à l'eau l'an dernier, nous renouvelons l'expérience cette année avec un module un peu différent mais tout aussi éclaboussant!",
-        "shortDescription": "Pendant la Kermesse ou après, viens mettre tes amis au défi de te faire tomber à l'eau",
-        "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tombeEau.png"
-    },
-    {
-        "id": 9,
-        "name": "Blé d'inde",
-        "description": "La Ferme Horticole Gagnon est fière de fournir le dîner à tous les résidents pour cette 20e fête de quartier, tout à fait gratuitement.",
-        "shortDescription": "Dîner au blé d'inde gratuit",
-        "time": "12:00 - 13:00",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/bleDInde.jpg"
-    },
-    {
-        "id": 10,
         "name": "Sculpture de ballons et maquillage",
         "description": "Un chien, un éléphant, peu importe ce que tu désires, nos artistes sauront te fabriquer une sculpture ou un maquillage comme tu le veux.",
         "shortDescription": "Des ballons de toutes formes et des maquillages qui épateront maman et papa.",
@@ -78,7 +62,39 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/maquillage2.jpg"
     },
     {
+        "id": 9,
+        "name": "Tombe à l'eau",
+        "description": "Vous avez été nombreux à participer à notre jeu de tombe à l'eau l'an dernier, nous renouvelons l'expérience cette année avec un module un peu différent mais tout aussi éclaboussant!",
+        "shortDescription": "Pendant la Kermesse ou après, viens mettre tes amis au défi de te faire tomber à l'eau",
+        "time": "Toute la journée",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tombeEau.png"
+    },
+    {
+        "id": 10,
+        "name": "Blé d'inde",
+        "description": "La Ferme Horticole Gagnon est fière de fournir le dîner à tous les résidents pour cette 20e fête de quartier, tout à fait gratuitement.",
+        "shortDescription": "Dîner au blé d'inde gratuit",
+        "time": "12:00 - 13:00",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/bleDInde.jpg"
+    },
+    {
         "id": 11,
+        "name": "Nicô et Filles",
+        "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!",
+        "shortDescription": "Cantine disponible sur place à coût réduit",
+        "time": "Toute la journée",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/nicoEtFilles.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Spectacle",
+        "description": "Viens voir un spectacle mettant en vedette tes personnages préférés du film Histoire de jouets.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
+        "shortDescription": "Histoire de jouets",
+        "time": "13:00 - 13:30",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/buzzLightyear.jpg"
+    },
+    {
+        "id": 13,
         "name": "Confection de licorne",
         "description": "Viens participer à cet atelier créatif et repart avec ta propre licorne à accrocher sur ton sac à dos.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
         "shortDescription": "Viens construire ta propre petite licorne",
@@ -86,28 +102,12 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/licorne.jpg"
     },
     {
-        "id": 12,
+        "id": 14,
         "name": "Formation de Jedi",
         "description": "Viens découvrir la force qui habite en toi.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
         "shortDescription": "Que la force soit avec toi",
         "time": "14:00 - 16:00",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/formationDeJedi.jpg"
-    },
-    {
-        "id": 13,
-        "name": "Nicô et Filles",
-        "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!\n\nMenu:\nPoutine\nPoutine saucisse\nHot dog vapeur\nRondelle d'oignon\nFondue parmesan maison et coulis poivron grillé\nFrites",
-        "shortDescription": "Cantine disponible sur place à coût réduit",
-        "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/nicoEtFilles.jpg"
-    },
-    {
-        "id": 14,
-        "name": "Spectacle",
-        "description": "Viens voir un spectacle mettant en vedette tes personnages préférés du film Histoire de jouets.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
-        "shortDescription": "Histoire de jouets",
-        "time": "13:00 - 13:30",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/buzzLightyear.jpg"
     },
     {
         "id": 15,
