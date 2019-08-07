@@ -1,0 +1,5 @@
+In Paint.net
+- Add new layer
+- Select black with opacity at 128
+- Paint bucket
+- Merge layer down

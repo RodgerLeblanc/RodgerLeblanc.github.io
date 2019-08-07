@@ -63,6 +63,14 @@
     },
     {
         "id": 9,
+        "name": "Espace-Temps - Jeux d'évasion",
+        "description": "On voulait faire un party dans la roulotte, mais la lumière disco ne semble plus fonctionner... Tu auras 10 minutes pour déchiffrer les indices te permettant de réparer la lumière disco et faire lever le party!",
+        "shortDescription": "Jeu d'évasion adapté pour les enfants",
+        "time": "Toute la journée",
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/espaceTemps.png"
+    },
+    {
+        "id": 10,
         "name": "Tombe à l'eau",
         "description": "Vous avez été nombreux à participer à notre jeu de tombe à l'eau l'an dernier, nous renouvelons l'expérience cette année avec un module un peu différent mais tout aussi éclaboussant!",
         "shortDescription": "Pendant la Kermesse ou après, viens mettre tes amis au défi de te faire tomber à l'eau",
@@ -70,7 +78,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/tombeEau.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Blé d'inde",
         "description": "La Ferme Horticole Gagnon est fière de fournir le dîner à tous les résidents pour cette 20e fête de quartier, tout à fait gratuitement.",
         "shortDescription": "Dîner au blé d'inde gratuit",
@@ -78,7 +86,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/bleDInde.jpg"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Nicô et Filles",
         "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!",
         "shortDescription": "Cantine disponible sur place à coût réduit",
@@ -86,7 +94,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/nicoEtFilles.jpg"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Spectacle",
         "description": "Viens voir un spectacle mettant en vedette tes personnages préférés du film Histoire de jouets.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
         "shortDescription": "Histoire de jouets",
@@ -94,7 +102,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/buzzLightyear.jpg"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Confection de licorne",
         "description": "Viens participer à cet atelier créatif et repart avec ta propre licorne à accrocher sur ton sac à dos.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
         "shortDescription": "Viens construire ta propre petite licorne",
@@ -102,7 +110,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/licorne.jpg"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Formation de Jedi",
         "description": "Viens découvrir la force qui habite en toi.\n\nCrédit photo : Personnages en fêtes, tous droits réservés",
         "shortDescription": "Que la force soit avec toi",
@@ -110,14 +118,14 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/formationDeJedi.jpg"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Sno-Kone",
         "description": "Nouveauté cette année, viens essayer nos Sno-Kone! C'est quoi un Sno-Kone? C'est de la glace concassée à saveur, semblable à la Slush. C'est gratuit pour tous.\nQuantité limité",
         "shortDescription": "Rafraichis-toi avec un cornet glacé!",
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/snokone.jpg"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Bataille d'éponges",
         "description": "La fête de quartier ne serait pas la même sans la bataille d'éponges! Véritable succès et instigateur de fous rires assurés, la bataille d'éponge est l'occasion pour les enfants de se rafraîchir tout en ayant du plaisir très contagieux.",
         "shortDescription": "De retour à la demande générale, prépares-toi à être mouillé!",
@@ -125,7 +133,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/batailleEponges.jpg"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Popcorn",
         "description": "Qui n'aime pas le popcorn? Nous, on adore, et on ramène la machine à popcorn pour une 2e année consécutive. Toujours gratuit!\nQuantité limitée",
         "shortDescription": "Gratuit!",
@@ -133,7 +141,7 @@
         "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/popcorn.jpg"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Fermeture du site",
         "description": "Venez donner un coup de main aux organisateurs pour démonter le site et les jeux gonflables, c'est le meilleur moyen de leur montrer votre appréciation.",
         "time": "16:30",
