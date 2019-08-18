@@ -87,11 +87,11 @@
     },
     {
         "id": 12,
-        "name": "Nicô et Filles",
-        "description": "De retour pour une 2e année de suite, la cantine Nicô et Filles vous offre un menu fast-food à prix modique qui saura plaire à tous!",
-        "shortDescription": "Cantine disponible sur place à coût réduit",
+        "name": "Mr. Méchoui",
+        "description": "Le foodtruck de Mr. Méchoui vous offre un menu unique avec une variété de poutines et wraps qui sauront plaire à tous!",
+        "shortDescription": "Cantine disponible sur place",
         "time": "Toute la journée",
-        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/nicoEtFilles.jpg"
+        "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Activities/Images/Trimmed/mrMechoui.jpg"
     },
     {
         "id": 13,
