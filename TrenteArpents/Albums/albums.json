@@ -969,5 +969,46 @@
                 "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Winter2016/12778750_776581165812271_7082696250915056310_o_776581165812271.jpg"
             }
         ]
+    },
+    {
+        "id": 7,
+        "title": "Fête d'été 2015",
+        "photos": [{
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11781694_700188936784828_6047586934451941367_n_700188936784828.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11873354_700189053451483_1294570672088396970_n_700189053451483.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11887957_700189076784814_3484388926472514300_n_700189076784814.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11892091_700188986784823_8859725259873997393_n_700188986784823.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11899899_700189126784809_377878859103282636_n_700189126784809.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11903796_700188950118160_7002310683727928252_n_700188950118160.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11904693_700188923451496_4322482455934245520_n_700188923451496.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11951117_700189060118149_6652456835560912927_n_700189060118149.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11951918_700188896784832_254830889505464941_n_700188896784832.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11952028_700188866784835_1239830436212399747_n_700188866784835.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11953187_700188860118169_3431990755529383585_n_700188860118169.jpg"
+            },
+            {
+                "imageUrl": "https://rodgerleblanc.github.io/TrenteArpents/Albums/Summer2015/11954792_700189003451488_6893380933362630220_n_700189003451488.jpg"
+            }
+        ]
     }
 ]
